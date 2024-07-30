@@ -1,0 +1,29 @@
+/* Todas as imports tem que ser colocados no inicio */
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AR:wght@100..400&display=swap');
+body{
+background-color: rgba(0, 0, 0, 0.678);
+}
+.figura{
+    width: 400px;
+}
+.gavioes{
+    width: 400px;
+}
+p{
+    font-size: 30px;
+    font-family: "Playwrite AR", cursive;
+
+}
+/* class para configuração de fonte */
+.fonte{
+color: aliceblue;
+}
+.fonte2{
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    color: crimson;
+}
+.fonte3{
+    font-family: "Kalnia Glaze", serif;
+    color:firebrick
+    
+}
